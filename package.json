@@ -1,0 +1,20 @@
+{
+  "name": "@nonpolynomial/data-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "2.554.0",
+    "cuid": "^2.1.6",
+    "level": "6.0.0"
+  },
+  "devDependencies": {
+    "prettier": "1.18.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
